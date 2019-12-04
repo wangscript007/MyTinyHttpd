@@ -1,0 +1,3 @@
+"E:\Clion\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\MyTinyHttp.dir/objects.a
+E:\devc++\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\MyTinyHttp.dir/objects.a @CMakeFiles\MyTinyHttp.dir\objects1.rsp
+E:\devc++\Dev-Cpp\MinGW64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\MyTinyHttp.dir/objects.a -Wl,--no-whole-archive  -o MyTinyHttp.exe -Wl,--out-implib,libMyTinyHttp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MyTinyHttp.dir\linklibs.rsp

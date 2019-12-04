@@ -1,0 +1,3 @@
+F:/TinyHttp/MyTinyHttp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/TinyHttp/MyTinyHttp/cmake-build-debug/CMakeFiles/MyTinyHttp.dir
+F:/TinyHttp/MyTinyHttp/cmake-build-debug/CMakeFiles/edit_cache.dir
